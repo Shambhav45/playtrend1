@@ -1,0 +1,1 @@
+// placeholder for firebase-messaging-sw.js
